@@ -1,0 +1,25 @@
+{
+  "name": "threeboard-contrib-widget-google-map",
+  "version": "1.0.0",
+  "description": "A Google map widget for Threeboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernietai/threeboard-widget-google-map.git"
+  },
+  "keywords": [
+    "threeboard",
+    "widget",
+    "google",
+    "map"
+  ],
+  "author": "Bernard Tai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bernietai/threeboard-widget-google-map/issues"
+  },
+  "homepage": "https://github.com/bernietai/threeboard-widget-google-map#readme"
+}
